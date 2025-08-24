@@ -23,7 +23,7 @@ Un script de gestión completo para servidores Brook proxy con interfaz de líne
 ### Instalación automática (recomendada):
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/TU_USUARIO/brook-server-manager/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/Pedro-111/brook-manager/main/install.sh | sudo bash
 ```
 ## 🎯 Uso rápido
 Después de la instalación, ejecuta:
